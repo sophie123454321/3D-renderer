@@ -37,10 +37,12 @@ Inspired by Minecraft.
 ## Project Structure
 
 3D RENDERER/
+
 ├── src/        
 ├── assets/     
 ├── saves/      
 ├── README.md
+
 └── .gitignore
 
 * src/ contains all rendering, math, and world logic
@@ -102,3 +104,4 @@ Runtime-generated data (such as world or state data) is stored separately from s
 ## License
 
 This project is provided for educational and demonstration purposes.
+
