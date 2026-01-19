@@ -1,0 +1,10 @@
+# Compiled Java files
+*.class
+
+# Runtime save data
+saves/
+*.data
+
+# Editor files
+.vscode/
+.idea/
