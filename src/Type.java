@@ -1,0 +1,5 @@
+public enum Type{
+
+    GRASS, GRAY, WHITE, RED, ORANGE, YELLOW, GREEN, BLUE, PURPLE, PINK, BLACK, BROWN
+
+}
